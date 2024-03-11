@@ -2,6 +2,7 @@
 - 👀 真名: 罗梓滔
 - 🌱 电话： 18806571117
 - 📫 住址： 浙江省台州市黄岩区新前街道双丰村一区135号
+- 🏫 学校:  環太平洋大学
 
 <!---
 c137load/c137load is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
